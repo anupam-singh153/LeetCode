@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class NetworkDelayTime_743 {
+class Solution {
 
     public int networkDelayTime(int[][] times, int N, int k) {
         
